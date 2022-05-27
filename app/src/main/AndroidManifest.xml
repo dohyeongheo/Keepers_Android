@@ -17,16 +17,6 @@
         android:usesCleartextTraffic="true">
 
         <!-- 푸쉬 알림-->
-        <service
-            android:name=".MyFirebaseMessagingService"
-            android:enabled="true"
-            android:exported="true"
-            android:stopWithTask="false">
-
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
         <!-- 푸쉬 알림-->
 
 

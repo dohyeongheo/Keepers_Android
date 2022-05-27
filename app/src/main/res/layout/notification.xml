@@ -19,12 +19,10 @@
 
             <ImageView
                 android:id="@+id/noti_icon"
-                style="@style/defaultButton"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:padding="5dp"
-                android:src="@mipmap/ic_launcher"
-                app:srcCompat="@drawable/alarm_light" />
+                android:src="@mipmap/ic_launcher"/>
 
         </LinearLayout>
 
