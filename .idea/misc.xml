@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_board.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_care_list.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_care_reg.xml" value="0.30045754956786985" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_login.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_login_success.xml" value="0.24172185430463577" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_main.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_monitor.xml" value="0.30885416666666665" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/activity_reg_success.xml" value="0.25" />
+        <entry key="..\:/Users/smhrd/AndroidStudioProjects/Keepers_Test/app/src/main/res/layout/notification.xml" value="0.28541666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
